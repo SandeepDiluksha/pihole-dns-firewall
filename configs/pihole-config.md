@@ -12,3 +12,9 @@
 - SSH key configured
 - System updated
 - Hostname set to pihole-server
+
+## Day 3 — Completed
+- Added 4 custom blocklists
+- Gravity updated — 90506 (88747 unique domains)
+- Verified blocking working: doubleclick.net returns 0.0.0.0
+- Verified legitimate domains still resolve correctly
